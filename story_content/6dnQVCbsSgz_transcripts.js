@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":32,"text":"Before we can get started, we have some opening information to go through, "},{"start":4192,"text":"starting with introducing you to our lesson’s principal characters."},{"start":7840,"text":"Meet Dr. Mary Lounsbury, the chair of the English department at "},{"start":11520,"text":"Phinneas College, and Dr. Casey Atherton, "},{"start":14656,"text":"a business writing professor in Dr. "},{"start":16960,"text":"Lounsbury’s department! You will be helping Dr. Atherton respond to Dr."},{"start":21664,"text":"Lounsbury’s suggestions as you move "},{"start":24224,"text":"through the lesson. Good luck!"}]}]};
+    window.globalLoadJsAsset('story_content/6dnQVCbsSgz_transcripts.js', JSON.stringify(data));
+})();
